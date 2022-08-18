@@ -99,6 +99,7 @@
     <None Include="packages.config" />
     <Content Include="VistaRegiones.cshtml" />
     <Content Include="VistaDepartamentos.cshtml" />
+    <Content Include="VistaMunicipios.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
